@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Degubber // <-- fix this so that it says Debugger
+namespace Debugger // <-- fix this so that it says Debugger
 {
     class Program
     {
